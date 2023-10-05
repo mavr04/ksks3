@@ -1,0 +1,3 @@
+C:\Users\mavr\source\repos\Ksks3\Ksks3\x64\Debug\Ksks3.vcxproj.AssemblyReference.cache
+C:\Users\mavr\source\repos\Ksks3\Ksks3\x64\Debug\Ksks3.MyForm.resources
+C:\Users\mavr\source\repos\Ksks3\Ksks3\x64\Debug\Ksks3.vcxproj.GenerateResource.cache
